@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minetman
 - 👀 I’m interested in physics especcially quantum optics and photnics
 - 🌱 I’m currently learning how to survive a PhD
-- 💞️ I’m looking to collaborate on everything that is interesting.
+- 💞️ Committed to results.
 - 📫 Send me a PM
 
 <!---
