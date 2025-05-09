@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minetman
-- 👀 I’m interested in physics especcially quantum optics and photnics
-- 🌱 I’m currently learning how to survive a PhD
+- 👀 I’m interested in homemade energy transition topics and energy system modeling
+- 🌱 I’m a physicist by traning and holding a PhD in Microsystem Engineering (Topics: integrated photoncis, optics, data analytics, science communication) 
 - 💞️ Committed to results.
 - 📫 Send me a PM
 
